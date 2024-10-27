@@ -1,0 +1,3462 @@
+[
+  {
+    "event_name": "Sample Event 1",
+    "date": "2024-10-27T07:16:17.086756",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        200,
+        500
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event001"
+    },
+    "location": {
+      "city": "Special City",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 1",
+      "postal_code": "500000",
+      "latitude": 12.95,
+      "longitude": 77.58,
+      "venue": "Sample Venue 1"
+    },
+    "host_info": {
+      "host_name": "Sample Host 1",
+      "contact_email": "contact1@example.com",
+      "contact_phone": "+91-9000000000"
+    },
+    "description": "This is a description for Sample Event 1. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 3.5,
+    "reviews_count": 100,
+    "images": [
+      "https://bookmyshow.com/images/event001-main.jpg",
+      "https://bookmyshow.com/images/event001-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 1",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer1.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 500,
+      "shares": 80,
+      "comments": 30,
+      "bookmarks": 200
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 2",
+        "date": "2024-10-28T07:16:17.086789"
+      },
+      {
+        "event_name": "Related Event 3",
+        "date": "2024-10-29T07:16:17.086793"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 2",
+    "date": "2024-10-28T07:16:17.086798",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        210,
+        520
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event002"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 2",
+      "postal_code": "500001",
+      "latitude": 12.959999999999999,
+      "longitude": 77.59,
+      "venue": "Sample Venue 2"
+    },
+    "host_info": {
+      "host_name": "Sample Host 2",
+      "contact_email": "contact2@example.com",
+      "contact_phone": "+91-9000000001"
+    },
+    "description": "This is a description for Sample Event 2. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 3.6,
+    "reviews_count": 105,
+    "images": [
+      "https://bookmyshow.com/images/event002-main.jpg",
+      "https://bookmyshow.com/images/event002-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 2",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer2.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 510,
+      "shares": 85,
+      "comments": 32,
+      "bookmarks": 215
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 3",
+        "date": "2024-10-29T07:16:17.086811"
+      },
+      {
+        "event_name": "Related Event 4",
+        "date": "2024-10-30T07:16:17.086816"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 3",
+    "date": "2024-10-29T07:16:17.086823",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        220,
+        540
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event003"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 3",
+      "postal_code": "500002",
+      "latitude": 12.969999999999999,
+      "longitude": 77.6,
+      "venue": "Sample Venue 3"
+    },
+    "host_info": {
+      "host_name": "Sample Host 3",
+      "contact_email": "contact3@example.com",
+      "contact_phone": "+91-9000000002"
+    },
+    "description": "This is a description for Sample Event 3. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 3.7,
+    "reviews_count": 110,
+    "images": [
+      "https://bookmyshow.com/images/event003-main.jpg",
+      "https://bookmyshow.com/images/event003-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 3",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer3.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 520,
+      "shares": 90,
+      "comments": 34,
+      "bookmarks": 230
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 4",
+        "date": "2024-10-30T07:16:17.086842"
+      },
+      {
+        "event_name": "Related Event 5",
+        "date": "2024-10-31T07:16:17.086849"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 4",
+    "date": "2024-10-30T07:16:17.086855",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        230,
+        560
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event004"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 4",
+      "postal_code": "500003",
+      "latitude": 12.979999999999999,
+      "longitude": 77.61,
+      "venue": "Sample Venue 4"
+    },
+    "host_info": {
+      "host_name": "Sample Host 4",
+      "contact_email": "contact4@example.com",
+      "contact_phone": "+91-9000000003"
+    },
+    "description": "This is a description for Sample Event 4. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 3.8,
+    "reviews_count": 115,
+    "images": [
+      "https://bookmyshow.com/images/event004-main.jpg",
+      "https://bookmyshow.com/images/event004-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 4",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer4.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 530,
+      "shares": 95,
+      "comments": 36,
+      "bookmarks": 245
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 5",
+        "date": "2024-10-31T07:16:17.086874"
+      },
+      {
+        "event_name": "Related Event 6",
+        "date": "2024-11-01T07:16:17.086880"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 5",
+    "date": "2024-10-31T07:16:17.086884",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        240,
+        580
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event005"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 5",
+      "postal_code": "500004",
+      "latitude": 12.989999999999998,
+      "longitude": 77.62,
+      "venue": "Sample Venue 5"
+    },
+    "host_info": {
+      "host_name": "Sample Host 5",
+      "contact_email": "contact5@example.com",
+      "contact_phone": "+91-9000000004"
+    },
+    "description": "This is a description for Sample Event 5. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 3.9,
+    "reviews_count": 120,
+    "images": [
+      "https://bookmyshow.com/images/event005-main.jpg",
+      "https://bookmyshow.com/images/event005-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 5",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer5.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 540,
+      "shares": 100,
+      "comments": 38,
+      "bookmarks": 260
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 6",
+        "date": "2024-11-01T07:16:17.086897"
+      },
+      {
+        "event_name": "Related Event 7",
+        "date": "2024-11-02T07:16:17.086900"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 6",
+    "date": "2024-11-01T07:16:17.086903",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        250,
+        600
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event006"
+    },
+    "location": {
+      "city": "Special City",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 6",
+      "postal_code": "500005",
+      "latitude": 13.0,
+      "longitude": 77.63,
+      "venue": "Sample Venue 6"
+    },
+    "host_info": {
+      "host_name": "Sample Host 6",
+      "contact_email": "contact6@example.com",
+      "contact_phone": "+91-9000000005"
+    },
+    "description": "This is a description for Sample Event 6. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 4.0,
+    "reviews_count": 125,
+    "images": [
+      "https://bookmyshow.com/images/event006-main.jpg",
+      "https://bookmyshow.com/images/event006-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 6",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer6.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 550,
+      "shares": 105,
+      "comments": 40,
+      "bookmarks": 275
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 7",
+        "date": "2024-11-02T07:16:17.086914"
+      },
+      {
+        "event_name": "Related Event 8",
+        "date": "2024-11-03T07:16:17.086917"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 7",
+    "date": "2024-11-02T07:16:17.086920",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        260,
+        620
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event007"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 7",
+      "postal_code": "500006",
+      "latitude": 13.01,
+      "longitude": 77.64,
+      "venue": "Sample Venue 7"
+    },
+    "host_info": {
+      "host_name": "Sample Host 7",
+      "contact_email": "contact7@example.com",
+      "contact_phone": "+91-9000000006"
+    },
+    "description": "This is a description for Sample Event 7. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 4.1,
+    "reviews_count": 130,
+    "images": [
+      "https://bookmyshow.com/images/event007-main.jpg",
+      "https://bookmyshow.com/images/event007-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 7",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer7.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 560,
+      "shares": 110,
+      "comments": 42,
+      "bookmarks": 290
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 8",
+        "date": "2024-11-03T07:16:17.086942"
+      },
+      {
+        "event_name": "Related Event 9",
+        "date": "2024-11-04T07:16:17.086945"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 8",
+    "date": "2024-11-03T07:16:17.086953",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        270,
+        640
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event008"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 8",
+      "postal_code": "500007",
+      "latitude": 13.02,
+      "longitude": 77.64999999999999,
+      "venue": "Sample Venue 8"
+    },
+    "host_info": {
+      "host_name": "Sample Host 8",
+      "contact_email": "contact8@example.com",
+      "contact_phone": "+91-9000000007"
+    },
+    "description": "This is a description for Sample Event 8. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 4.2,
+    "reviews_count": 135,
+    "images": [
+      "https://bookmyshow.com/images/event008-main.jpg",
+      "https://bookmyshow.com/images/event008-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 8",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer8.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 570,
+      "shares": 115,
+      "comments": 44,
+      "bookmarks": 305
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 9",
+        "date": "2024-11-04T07:16:17.086970"
+      },
+      {
+        "event_name": "Related Event 10",
+        "date": "2024-11-05T07:16:17.086975"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 9",
+    "date": "2024-11-04T07:16:17.086981",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        280,
+        660
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event009"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 9",
+      "postal_code": "500008",
+      "latitude": 13.03,
+      "longitude": 77.66,
+      "venue": "Sample Venue 9"
+    },
+    "host_info": {
+      "host_name": "Sample Host 9",
+      "contact_email": "contact9@example.com",
+      "contact_phone": "+91-9000000008"
+    },
+    "description": "This is a description for Sample Event 9. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 4.3,
+    "reviews_count": 140,
+    "images": [
+      "https://bookmyshow.com/images/event009-main.jpg",
+      "https://bookmyshow.com/images/event009-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 9",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer9.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 580,
+      "shares": 120,
+      "comments": 46,
+      "bookmarks": 320
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 10",
+        "date": "2024-11-05T07:16:17.086996"
+      },
+      {
+        "event_name": "Related Event 11",
+        "date": "2024-11-06T07:16:17.087001"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 10",
+    "date": "2024-11-05T07:16:17.087006",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        290,
+        680
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event010"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 10",
+      "postal_code": "500009",
+      "latitude": 13.04,
+      "longitude": 77.67,
+      "venue": "Sample Venue 10"
+    },
+    "host_info": {
+      "host_name": "Sample Host 10",
+      "contact_email": "contact10@example.com",
+      "contact_phone": "+91-9000000009"
+    },
+    "description": "This is a description for Sample Event 10. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 4.4,
+    "reviews_count": 145,
+    "images": [
+      "https://bookmyshow.com/images/event010-main.jpg",
+      "https://bookmyshow.com/images/event010-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 10",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer10.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 590,
+      "shares": 125,
+      "comments": 48,
+      "bookmarks": 335
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 11",
+        "date": "2024-11-06T07:16:17.087025"
+      },
+      {
+        "event_name": "Related Event 12",
+        "date": "2024-11-07T07:16:17.087030"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 11",
+    "date": "2024-11-06T07:16:17.087035",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        300,
+        700
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event011"
+    },
+    "location": {
+      "city": "Special City",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 11",
+      "postal_code": "500010",
+      "latitude": 13.049999999999999,
+      "longitude": 77.67999999999999,
+      "venue": "Sample Venue 11"
+    },
+    "host_info": {
+      "host_name": "Sample Host 11",
+      "contact_email": "contact11@example.com",
+      "contact_phone": "+91-9000000010"
+    },
+    "description": "This is a description for Sample Event 11. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 3.5,
+    "reviews_count": 150,
+    "images": [
+      "https://bookmyshow.com/images/event011-main.jpg",
+      "https://bookmyshow.com/images/event011-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 11",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer11.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 600,
+      "shares": 130,
+      "comments": 50,
+      "bookmarks": 350
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 12",
+        "date": "2024-11-07T07:16:17.087055"
+      },
+      {
+        "event_name": "Related Event 13",
+        "date": "2024-11-08T07:16:17.087059"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 12",
+    "date": "2024-11-07T07:16:17.087062",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        310,
+        720
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event012"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 12",
+      "postal_code": "500011",
+      "latitude": 13.059999999999999,
+      "longitude": 77.69,
+      "venue": "Sample Venue 12"
+    },
+    "host_info": {
+      "host_name": "Sample Host 12",
+      "contact_email": "contact12@example.com",
+      "contact_phone": "+91-9000000011"
+    },
+    "description": "This is a description for Sample Event 12. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 3.6,
+    "reviews_count": 155,
+    "images": [
+      "https://bookmyshow.com/images/event012-main.jpg",
+      "https://bookmyshow.com/images/event012-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 12",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer12.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 610,
+      "shares": 135,
+      "comments": 52,
+      "bookmarks": 365
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 13",
+        "date": "2024-11-08T07:16:17.087075"
+      },
+      {
+        "event_name": "Related Event 14",
+        "date": "2024-11-09T07:16:17.087080"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 13",
+    "date": "2024-11-08T07:16:17.087085",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        320,
+        740
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event013"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 13",
+      "postal_code": "500012",
+      "latitude": 13.069999999999999,
+      "longitude": 77.7,
+      "venue": "Sample Venue 13"
+    },
+    "host_info": {
+      "host_name": "Sample Host 13",
+      "contact_email": "contact13@example.com",
+      "contact_phone": "+91-9000000012"
+    },
+    "description": "This is a description for Sample Event 13. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 3.7,
+    "reviews_count": 160,
+    "images": [
+      "https://bookmyshow.com/images/event013-main.jpg",
+      "https://bookmyshow.com/images/event013-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 13",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer13.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 620,
+      "shares": 140,
+      "comments": 54,
+      "bookmarks": 380
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 14",
+        "date": "2024-11-09T07:16:17.087105"
+      },
+      {
+        "event_name": "Related Event 15",
+        "date": "2024-11-10T07:16:17.087112"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 14",
+    "date": "2024-11-09T07:16:17.087116",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        330,
+        760
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event014"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 14",
+      "postal_code": "500013",
+      "latitude": 13.08,
+      "longitude": 77.71,
+      "venue": "Sample Venue 14"
+    },
+    "host_info": {
+      "host_name": "Sample Host 14",
+      "contact_email": "contact14@example.com",
+      "contact_phone": "+91-9000000013"
+    },
+    "description": "This is a description for Sample Event 14. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 3.8,
+    "reviews_count": 165,
+    "images": [
+      "https://bookmyshow.com/images/event014-main.jpg",
+      "https://bookmyshow.com/images/event014-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 14",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer14.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 630,
+      "shares": 145,
+      "comments": 56,
+      "bookmarks": 395
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 15",
+        "date": "2024-11-10T07:16:17.087127"
+      },
+      {
+        "event_name": "Related Event 16",
+        "date": "2024-11-11T07:16:17.087130"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 15",
+    "date": "2024-11-10T07:16:17.087133",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        340,
+        780
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event015"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 15",
+      "postal_code": "500014",
+      "latitude": 13.09,
+      "longitude": 77.72,
+      "venue": "Sample Venue 15"
+    },
+    "host_info": {
+      "host_name": "Sample Host 15",
+      "contact_email": "contact15@example.com",
+      "contact_phone": "+91-9000000014"
+    },
+    "description": "This is a description for Sample Event 15. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 3.9,
+    "reviews_count": 170,
+    "images": [
+      "https://bookmyshow.com/images/event015-main.jpg",
+      "https://bookmyshow.com/images/event015-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 15",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer15.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 640,
+      "shares": 150,
+      "comments": 58,
+      "bookmarks": 410
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 16",
+        "date": "2024-11-11T07:16:17.087143"
+      },
+      {
+        "event_name": "Related Event 17",
+        "date": "2024-11-12T07:16:17.087146"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 16",
+    "date": "2024-11-11T07:16:17.087149",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        350,
+        800
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event016"
+    },
+    "location": {
+      "city": "Special City",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 16",
+      "postal_code": "500015",
+      "latitude": 13.1,
+      "longitude": 77.73,
+      "venue": "Sample Venue 16"
+    },
+    "host_info": {
+      "host_name": "Sample Host 16",
+      "contact_email": "contact16@example.com",
+      "contact_phone": "+91-9000000015"
+    },
+    "description": "This is a description for Sample Event 16. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 4.0,
+    "reviews_count": 175,
+    "images": [
+      "https://bookmyshow.com/images/event016-main.jpg",
+      "https://bookmyshow.com/images/event016-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 16",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer16.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 650,
+      "shares": 155,
+      "comments": 60,
+      "bookmarks": 425
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 17",
+        "date": "2024-11-12T07:16:17.087160"
+      },
+      {
+        "event_name": "Related Event 18",
+        "date": "2024-11-13T07:16:17.087163"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 17",
+    "date": "2024-11-12T07:16:17.087166",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        360,
+        820
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event017"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 17",
+      "postal_code": "500016",
+      "latitude": 13.11,
+      "longitude": 77.74,
+      "venue": "Sample Venue 17"
+    },
+    "host_info": {
+      "host_name": "Sample Host 17",
+      "contact_email": "contact17@example.com",
+      "contact_phone": "+91-9000000016"
+    },
+    "description": "This is a description for Sample Event 17. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 4.1,
+    "reviews_count": 180,
+    "images": [
+      "https://bookmyshow.com/images/event017-main.jpg",
+      "https://bookmyshow.com/images/event017-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 17",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer17.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 660,
+      "shares": 160,
+      "comments": 62,
+      "bookmarks": 440
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 18",
+        "date": "2024-11-13T07:16:17.087185"
+      },
+      {
+        "event_name": "Related Event 19",
+        "date": "2024-11-14T07:16:17.087190"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 18",
+    "date": "2024-11-13T07:16:17.087196",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        370,
+        840
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event018"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 18",
+      "postal_code": "500017",
+      "latitude": 13.12,
+      "longitude": 77.75,
+      "venue": "Sample Venue 18"
+    },
+    "host_info": {
+      "host_name": "Sample Host 18",
+      "contact_email": "contact18@example.com",
+      "contact_phone": "+91-9000000017"
+    },
+    "description": "This is a description for Sample Event 18. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 4.2,
+    "reviews_count": 185,
+    "images": [
+      "https://bookmyshow.com/images/event018-main.jpg",
+      "https://bookmyshow.com/images/event018-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 18",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer18.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 670,
+      "shares": 165,
+      "comments": 64,
+      "bookmarks": 455
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 19",
+        "date": "2024-11-14T07:16:17.087210"
+      },
+      {
+        "event_name": "Related Event 20",
+        "date": "2024-11-15T07:16:17.087214"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 19",
+    "date": "2024-11-14T07:16:17.087219",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        380,
+        860
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event019"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 19",
+      "postal_code": "500018",
+      "latitude": 13.129999999999999,
+      "longitude": 77.76,
+      "venue": "Sample Venue 19"
+    },
+    "host_info": {
+      "host_name": "Sample Host 19",
+      "contact_email": "contact19@example.com",
+      "contact_phone": "+91-9000000018"
+    },
+    "description": "This is a description for Sample Event 19. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 4.3,
+    "reviews_count": 190,
+    "images": [
+      "https://bookmyshow.com/images/event019-main.jpg",
+      "https://bookmyshow.com/images/event019-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 19",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer19.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 680,
+      "shares": 170,
+      "comments": 66,
+      "bookmarks": 470
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 20",
+        "date": "2024-11-15T07:16:17.087247"
+      },
+      {
+        "event_name": "Related Event 21",
+        "date": "2024-11-16T07:16:17.087258"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 20",
+    "date": "2024-11-15T07:16:17.087261",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        390,
+        880
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event020"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 20",
+      "postal_code": "500019",
+      "latitude": 13.139999999999999,
+      "longitude": 77.77,
+      "venue": "Sample Venue 20"
+    },
+    "host_info": {
+      "host_name": "Sample Host 20",
+      "contact_email": "contact20@example.com",
+      "contact_phone": "+91-9000000019"
+    },
+    "description": "This is a description for Sample Event 20. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 4.4,
+    "reviews_count": 195,
+    "images": [
+      "https://bookmyshow.com/images/event020-main.jpg",
+      "https://bookmyshow.com/images/event020-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 20",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer20.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 690,
+      "shares": 175,
+      "comments": 68,
+      "bookmarks": 485
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 21",
+        "date": "2024-11-16T07:16:17.087272"
+      },
+      {
+        "event_name": "Related Event 22",
+        "date": "2024-11-17T07:16:17.087275"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 21",
+    "date": "2024-11-16T07:16:17.087279",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        400,
+        900
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event021"
+    },
+    "location": {
+      "city": "Special City",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 21",
+      "postal_code": "500020",
+      "latitude": 13.149999999999999,
+      "longitude": 77.78,
+      "venue": "Sample Venue 21"
+    },
+    "host_info": {
+      "host_name": "Sample Host 21",
+      "contact_email": "contact21@example.com",
+      "contact_phone": "+91-9000000020"
+    },
+    "description": "This is a description for Sample Event 21. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 3.5,
+    "reviews_count": 200,
+    "images": [
+      "https://bookmyshow.com/images/event021-main.jpg",
+      "https://bookmyshow.com/images/event021-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 21",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer21.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 700,
+      "shares": 180,
+      "comments": 70,
+      "bookmarks": 500
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 22",
+        "date": "2024-11-17T07:16:17.087288"
+      },
+      {
+        "event_name": "Related Event 23",
+        "date": "2024-11-18T07:16:17.087291"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 22",
+    "date": "2024-11-17T07:16:17.087294",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        410,
+        920
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event022"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 22",
+      "postal_code": "500021",
+      "latitude": 13.16,
+      "longitude": 77.78999999999999,
+      "venue": "Sample Venue 22"
+    },
+    "host_info": {
+      "host_name": "Sample Host 22",
+      "contact_email": "contact22@example.com",
+      "contact_phone": "+91-9000000021"
+    },
+    "description": "This is a description for Sample Event 22. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 3.6,
+    "reviews_count": 205,
+    "images": [
+      "https://bookmyshow.com/images/event022-main.jpg",
+      "https://bookmyshow.com/images/event022-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 22",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer22.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 710,
+      "shares": 185,
+      "comments": 72,
+      "bookmarks": 515
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 23",
+        "date": "2024-11-18T07:16:17.087305"
+      },
+      {
+        "event_name": "Related Event 24",
+        "date": "2024-11-19T07:16:17.087308"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 23",
+    "date": "2024-11-18T07:16:17.087319",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        420,
+        940
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event023"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 23",
+      "postal_code": "500022",
+      "latitude": 13.17,
+      "longitude": 77.8,
+      "venue": "Sample Venue 23"
+    },
+    "host_info": {
+      "host_name": "Sample Host 23",
+      "contact_email": "contact23@example.com",
+      "contact_phone": "+91-9000000022"
+    },
+    "description": "This is a description for Sample Event 23. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 3.7,
+    "reviews_count": 210,
+    "images": [
+      "https://bookmyshow.com/images/event023-main.jpg",
+      "https://bookmyshow.com/images/event023-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 23",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer23.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 720,
+      "shares": 190,
+      "comments": 74,
+      "bookmarks": 530
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 24",
+        "date": "2024-11-19T07:16:17.087329"
+      },
+      {
+        "event_name": "Related Event 25",
+        "date": "2024-11-20T07:16:17.087332"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 24",
+    "date": "2024-11-19T07:16:17.087335",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        430,
+        960
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event024"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 24",
+      "postal_code": "500023",
+      "latitude": 13.18,
+      "longitude": 77.81,
+      "venue": "Sample Venue 24"
+    },
+    "host_info": {
+      "host_name": "Sample Host 24",
+      "contact_email": "contact24@example.com",
+      "contact_phone": "+91-9000000023"
+    },
+    "description": "This is a description for Sample Event 24. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 3.8,
+    "reviews_count": 215,
+    "images": [
+      "https://bookmyshow.com/images/event024-main.jpg",
+      "https://bookmyshow.com/images/event024-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 24",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer24.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 730,
+      "shares": 195,
+      "comments": 76,
+      "bookmarks": 545
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 25",
+        "date": "2024-11-20T07:16:17.087345"
+      },
+      {
+        "event_name": "Related Event 26",
+        "date": "2024-11-21T07:16:17.087348"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 25",
+    "date": "2024-11-20T07:16:17.087351",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        440,
+        980
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event025"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 25",
+      "postal_code": "500024",
+      "latitude": 13.19,
+      "longitude": 77.82,
+      "venue": "Sample Venue 25"
+    },
+    "host_info": {
+      "host_name": "Sample Host 25",
+      "contact_email": "contact25@example.com",
+      "contact_phone": "+91-9000000024"
+    },
+    "description": "This is a description for Sample Event 25. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 3.9,
+    "reviews_count": 220,
+    "images": [
+      "https://bookmyshow.com/images/event025-main.jpg",
+      "https://bookmyshow.com/images/event025-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 25",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer25.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 740,
+      "shares": 200,
+      "comments": 78,
+      "bookmarks": 560
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 26",
+        "date": "2024-11-21T07:16:17.087361"
+      },
+      {
+        "event_name": "Related Event 27",
+        "date": "2024-11-22T07:16:17.087364"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 26",
+    "date": "2024-11-21T07:16:17.087367",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        450,
+        1000
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event026"
+    },
+    "location": {
+      "city": "Special City",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 26",
+      "postal_code": "500025",
+      "latitude": 13.2,
+      "longitude": 77.83,
+      "venue": "Sample Venue 26"
+    },
+    "host_info": {
+      "host_name": "Sample Host 26",
+      "contact_email": "contact26@example.com",
+      "contact_phone": "+91-9000000025"
+    },
+    "description": "This is a description for Sample Event 26. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 4.0,
+    "reviews_count": 225,
+    "images": [
+      "https://bookmyshow.com/images/event026-main.jpg",
+      "https://bookmyshow.com/images/event026-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 26",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer26.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 750,
+      "shares": 205,
+      "comments": 80,
+      "bookmarks": 575
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 27",
+        "date": "2024-11-22T07:16:17.087377"
+      },
+      {
+        "event_name": "Related Event 28",
+        "date": "2024-11-23T07:16:17.087380"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 27",
+    "date": "2024-11-22T07:16:17.087383",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        460,
+        1020
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event027"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 27",
+      "postal_code": "500026",
+      "latitude": 13.209999999999999,
+      "longitude": 77.84,
+      "venue": "Sample Venue 27"
+    },
+    "host_info": {
+      "host_name": "Sample Host 27",
+      "contact_email": "contact27@example.com",
+      "contact_phone": "+91-9000000026"
+    },
+    "description": "This is a description for Sample Event 27. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 4.1,
+    "reviews_count": 230,
+    "images": [
+      "https://bookmyshow.com/images/event027-main.jpg",
+      "https://bookmyshow.com/images/event027-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 27",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer27.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 760,
+      "shares": 210,
+      "comments": 82,
+      "bookmarks": 590
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 28",
+        "date": "2024-11-23T07:16:17.087397"
+      },
+      {
+        "event_name": "Related Event 29",
+        "date": "2024-11-24T07:16:17.087400"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 28",
+    "date": "2024-11-23T07:16:17.087403",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        470,
+        1040
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event028"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 28",
+      "postal_code": "500027",
+      "latitude": 13.219999999999999,
+      "longitude": 77.85,
+      "venue": "Sample Venue 28"
+    },
+    "host_info": {
+      "host_name": "Sample Host 28",
+      "contact_email": "contact28@example.com",
+      "contact_phone": "+91-9000000027"
+    },
+    "description": "This is a description for Sample Event 28. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 4.2,
+    "reviews_count": 235,
+    "images": [
+      "https://bookmyshow.com/images/event028-main.jpg",
+      "https://bookmyshow.com/images/event028-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 28",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer28.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 770,
+      "shares": 215,
+      "comments": 84,
+      "bookmarks": 605
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 29",
+        "date": "2024-11-24T07:16:17.087413"
+      },
+      {
+        "event_name": "Related Event 30",
+        "date": "2024-11-25T07:16:17.087416"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 29",
+    "date": "2024-11-24T07:16:17.087419",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        480,
+        1060
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event029"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 29",
+      "postal_code": "500028",
+      "latitude": 13.229999999999999,
+      "longitude": 77.86,
+      "venue": "Sample Venue 29"
+    },
+    "host_info": {
+      "host_name": "Sample Host 29",
+      "contact_email": "contact29@example.com",
+      "contact_phone": "+91-9000000028"
+    },
+    "description": "This is a description for Sample Event 29. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 4.3,
+    "reviews_count": 240,
+    "images": [
+      "https://bookmyshow.com/images/event029-main.jpg",
+      "https://bookmyshow.com/images/event029-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 29",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer29.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 780,
+      "shares": 220,
+      "comments": 86,
+      "bookmarks": 620
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 30",
+        "date": "2024-11-25T07:16:17.087429"
+      },
+      {
+        "event_name": "Related Event 31",
+        "date": "2024-11-26T07:16:17.087432"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 30",
+    "date": "2024-11-25T07:16:17.087435",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        490,
+        1080
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event030"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 30",
+      "postal_code": "500029",
+      "latitude": 13.239999999999998,
+      "longitude": 77.87,
+      "venue": "Sample Venue 30"
+    },
+    "host_info": {
+      "host_name": "Sample Host 30",
+      "contact_email": "contact30@example.com",
+      "contact_phone": "+91-9000000029"
+    },
+    "description": "This is a description for Sample Event 30. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 4.4,
+    "reviews_count": 245,
+    "images": [
+      "https://bookmyshow.com/images/event030-main.jpg",
+      "https://bookmyshow.com/images/event030-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 30",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer30.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 790,
+      "shares": 225,
+      "comments": 88,
+      "bookmarks": 635
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 31",
+        "date": "2024-11-26T07:16:17.087449"
+      },
+      {
+        "event_name": "Related Event 32",
+        "date": "2024-11-27T07:16:17.087452"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 31",
+    "date": "2024-11-26T07:16:17.087455",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        500,
+        1100
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event031"
+    },
+    "location": {
+      "city": "Special City",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 31",
+      "postal_code": "500030",
+      "latitude": 13.25,
+      "longitude": 77.88,
+      "venue": "Sample Venue 31"
+    },
+    "host_info": {
+      "host_name": "Sample Host 31",
+      "contact_email": "contact31@example.com",
+      "contact_phone": "+91-9000000030"
+    },
+    "description": "This is a description for Sample Event 31. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 3.5,
+    "reviews_count": 250,
+    "images": [
+      "https://bookmyshow.com/images/event031-main.jpg",
+      "https://bookmyshow.com/images/event031-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 31",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer31.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 800,
+      "shares": 230,
+      "comments": 90,
+      "bookmarks": 650
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 32",
+        "date": "2024-11-27T07:16:17.087465"
+      },
+      {
+        "event_name": "Related Event 33",
+        "date": "2024-11-28T07:16:17.087468"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 32",
+    "date": "2024-11-27T07:16:17.087472",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        510,
+        1120
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event032"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 32",
+      "postal_code": "500031",
+      "latitude": 13.26,
+      "longitude": 77.89,
+      "venue": "Sample Venue 32"
+    },
+    "host_info": {
+      "host_name": "Sample Host 32",
+      "contact_email": "contact32@example.com",
+      "contact_phone": "+91-9000000031"
+    },
+    "description": "This is a description for Sample Event 32. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 3.6,
+    "reviews_count": 255,
+    "images": [
+      "https://bookmyshow.com/images/event032-main.jpg",
+      "https://bookmyshow.com/images/event032-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 32",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer32.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 810,
+      "shares": 235,
+      "comments": 92,
+      "bookmarks": 665
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 33",
+        "date": "2024-11-28T07:16:17.087483"
+      },
+      {
+        "event_name": "Related Event 34",
+        "date": "2024-11-29T07:16:17.087487"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 33",
+    "date": "2024-11-28T07:16:17.087493",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        520,
+        1140
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event033"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 33",
+      "postal_code": "500032",
+      "latitude": 13.27,
+      "longitude": 77.89999999999999,
+      "venue": "Sample Venue 33"
+    },
+    "host_info": {
+      "host_name": "Sample Host 33",
+      "contact_email": "contact33@example.com",
+      "contact_phone": "+91-9000000032"
+    },
+    "description": "This is a description for Sample Event 33. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 3.7,
+    "reviews_count": 260,
+    "images": [
+      "https://bookmyshow.com/images/event033-main.jpg",
+      "https://bookmyshow.com/images/event033-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 33",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer33.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 820,
+      "shares": 240,
+      "comments": 94,
+      "bookmarks": 680
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 34",
+        "date": "2024-11-29T07:16:17.087533"
+      },
+      {
+        "event_name": "Related Event 35",
+        "date": "2024-11-30T07:16:17.087538"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 34",
+    "date": "2024-11-29T07:16:17.087543",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        530,
+        1160
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event034"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 34",
+      "postal_code": "500033",
+      "latitude": 13.28,
+      "longitude": 77.91,
+      "venue": "Sample Venue 34"
+    },
+    "host_info": {
+      "host_name": "Sample Host 34",
+      "contact_email": "contact34@example.com",
+      "contact_phone": "+91-9000000033"
+    },
+    "description": "This is a description for Sample Event 34. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 3.8,
+    "reviews_count": 265,
+    "images": [
+      "https://bookmyshow.com/images/event034-main.jpg",
+      "https://bookmyshow.com/images/event034-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 34",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer34.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 830,
+      "shares": 245,
+      "comments": 96,
+      "bookmarks": 695
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 35",
+        "date": "2024-11-30T07:16:17.087560"
+      },
+      {
+        "event_name": "Related Event 36",
+        "date": "2024-12-01T07:16:17.087566"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 35",
+    "date": "2024-11-30T07:16:17.087571",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        540,
+        1180
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event035"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 35",
+      "postal_code": "500034",
+      "latitude": 13.29,
+      "longitude": 77.92,
+      "venue": "Sample Venue 35"
+    },
+    "host_info": {
+      "host_name": "Sample Host 35",
+      "contact_email": "contact35@example.com",
+      "contact_phone": "+91-9000000034"
+    },
+    "description": "This is a description for Sample Event 35. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 3.9,
+    "reviews_count": 270,
+    "images": [
+      "https://bookmyshow.com/images/event035-main.jpg",
+      "https://bookmyshow.com/images/event035-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 35",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer35.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 840,
+      "shares": 250,
+      "comments": 98,
+      "bookmarks": 710
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 36",
+        "date": "2024-12-01T07:16:17.087642"
+      },
+      {
+        "event_name": "Related Event 37",
+        "date": "2024-12-02T07:16:17.087645"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 36",
+    "date": "2024-12-01T07:16:17.087649",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        550,
+        1200
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event036"
+    },
+    "location": {
+      "city": "Special City",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 36",
+      "postal_code": "500035",
+      "latitude": 13.299999999999999,
+      "longitude": 77.92999999999999,
+      "venue": "Sample Venue 36"
+    },
+    "host_info": {
+      "host_name": "Sample Host 36",
+      "contact_email": "contact36@example.com",
+      "contact_phone": "+91-9000000035"
+    },
+    "description": "This is a description for Sample Event 36. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 4.0,
+    "reviews_count": 275,
+    "images": [
+      "https://bookmyshow.com/images/event036-main.jpg",
+      "https://bookmyshow.com/images/event036-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 36",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer36.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 850,
+      "shares": 255,
+      "comments": 100,
+      "bookmarks": 725
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 37",
+        "date": "2024-12-02T07:16:17.087659"
+      },
+      {
+        "event_name": "Related Event 38",
+        "date": "2024-12-03T07:16:17.087662"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 37",
+    "date": "2024-12-02T07:16:17.087666",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        560,
+        1220
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event037"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 37",
+      "postal_code": "500036",
+      "latitude": 13.309999999999999,
+      "longitude": 77.94,
+      "venue": "Sample Venue 37"
+    },
+    "host_info": {
+      "host_name": "Sample Host 37",
+      "contact_email": "contact37@example.com",
+      "contact_phone": "+91-9000000036"
+    },
+    "description": "This is a description for Sample Event 37. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 4.1,
+    "reviews_count": 280,
+    "images": [
+      "https://bookmyshow.com/images/event037-main.jpg",
+      "https://bookmyshow.com/images/event037-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 37",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer37.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 860,
+      "shares": 260,
+      "comments": 102,
+      "bookmarks": 740
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 38",
+        "date": "2024-12-03T07:16:17.087676"
+      },
+      {
+        "event_name": "Related Event 39",
+        "date": "2024-12-04T07:16:17.087679"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 38",
+    "date": "2024-12-03T07:16:17.087682",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        570,
+        1240
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event038"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 38",
+      "postal_code": "500037",
+      "latitude": 13.319999999999999,
+      "longitude": 77.95,
+      "venue": "Sample Venue 38"
+    },
+    "host_info": {
+      "host_name": "Sample Host 38",
+      "contact_email": "contact38@example.com",
+      "contact_phone": "+91-9000000037"
+    },
+    "description": "This is a description for Sample Event 38. Enjoy the unique experiences, performances, and food!",
+    "duration": "3 hours",
+    "rating": 4.2,
+    "reviews_count": 285,
+    "images": [
+      "https://bookmyshow.com/images/event038-main.jpg",
+      "https://bookmyshow.com/images/event038-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 38",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer38.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 870,
+      "shares": 265,
+      "comments": 104,
+      "bookmarks": 755
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 39",
+        "date": "2024-12-04T07:16:17.087692"
+      },
+      {
+        "event_name": "Related Event 40",
+        "date": "2024-12-05T07:16:17.087703"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 39",
+    "date": "2024-12-04T07:16:17.087707",
+    "type": [
+      "festival",
+      "outdoor"
+    ],
+    "genres": [
+      "comedy",
+      "roast"
+    ],
+    "audience": [
+      "all ages"
+    ],
+    "ticket_info": {
+      "price_range": [
+        580,
+        1260
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event039"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 39",
+      "postal_code": "500038",
+      "latitude": 13.33,
+      "longitude": 77.96,
+      "venue": "Sample Venue 39"
+    },
+    "host_info": {
+      "host_name": "Sample Host 39",
+      "contact_email": "contact39@example.com",
+      "contact_phone": "+91-9000000038"
+    },
+    "description": "This is a description for Sample Event 39. Enjoy the unique experiences, performances, and food!",
+    "duration": "4 hours",
+    "rating": 4.3,
+    "reviews_count": 290,
+    "images": [
+      "https://bookmyshow.com/images/event039-main.jpg",
+      "https://bookmyshow.com/images/event039-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 39",
+        "role": "Singer",
+        "profile_image": "https://bookmyshow.com/images/performer39.jpg"
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Food & Drinks"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "festival",
+      "live music",
+      "outdoor"
+    ],
+    "event_policies": {
+      "refund_policy": "No refunds",
+      "age_restriction": "None",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 880,
+      "shares": 270,
+      "comments": 106,
+      "bookmarks": 770
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 40",
+        "date": "2024-12-05T07:16:17.087718"
+      },
+      {
+        "event_name": "Related Event 41",
+        "date": "2024-12-06T07:16:17.087720"
+      }
+    ]
+  },
+  {
+    "event_name": "Sample Event 40",
+    "date": "2024-12-05T07:16:17.087723",
+    "type": [
+      "concert",
+      "indoor"
+    ],
+    "genres": [
+      "food",
+      "music"
+    ],
+    "audience": [
+      "adults"
+    ],
+    "ticket_info": {
+      "price_range": [
+        590,
+        1280
+      ],
+      "currency": "INR",
+      "ticket_link": "https://bookmyshow.com/event040"
+    },
+    "location": {
+      "city": "City Example",
+      "state": "State Example",
+      "country": "India",
+      "address": "Sample Address 40",
+      "postal_code": "500039",
+      "latitude": 13.34,
+      "longitude": 77.97,
+      "venue": "Sample Venue 40"
+    },
+    "host_info": {
+      "host_name": "Sample Host 40",
+      "contact_email": "contact40@example.com",
+      "contact_phone": "+91-9000000039"
+    },
+    "description": "This is a description for Sample Event 40. Enjoy the unique experiences, performances, and food!",
+    "duration": "2 hours",
+    "rating": 4.4,
+    "reviews_count": 295,
+    "images": [
+      "https://bookmyshow.com/images/event040-main.jpg",
+      "https://bookmyshow.com/images/event040-1.jpg"
+    ],
+    "performers": [
+      {
+        "name": "Performer 40",
+        "role": "Comedian",
+        "profile_image": "https://bookmyshow.com/images/performer40.jpg"
+      }
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Pet-Friendly"
+    ],
+    "safety_measures": [
+      "Sanitization booths",
+      "Masks required"
+    ],
+    "tags": [
+      "comedy",
+      "indoor"
+    ],
+    "event_policies": {
+      "refund_policy": "Refunds up to 7 days before event",
+      "age_restriction": "18+ only",
+      "dress_code": "Casual"
+    },
+    "engagement_metrics": {
+      "likes": 890,
+      "shares": 275,
+      "comments": 108,
+      "bookmarks": 785
+    },
+    "related_events": [
+      {
+        "event_name": "Related Event 41",
+        "date": "2024-12-06T07:16:17.087733"
+      },
+      {
+        "event_name": "Related Event 42",
+        "date": "2024-12-07T07:16:17.087736"
+      }
+    ]
+  }
+]
