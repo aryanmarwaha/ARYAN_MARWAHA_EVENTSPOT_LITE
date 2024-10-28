@@ -1,58 +1,86 @@
 import { faChevronDown, faChevronUp } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useEffect, useState } from "react";
-const FilterSection = () => {
-    const [dateFilters, setDateFilters] = useState([]);
-    const [languageFilters, setLanguageFilters] = useState([]);
-    const [categoryFilters, setCategoryFilters] = useState([]);
-    const [priceFilters, setPriceFilters] = useState([]);
+import { useDispatch, useSelector } from "react-redux";
+import {
+    setFilterDate,
+    removeFilterDate,
+    resetFilterDate,
+    setFilterLanguage,
+    removeFilterLanguage,
+    resetFilterLanguage,
+    setFilterCategory,
+    removeFilterCategory,
+    resetFilterCategory,
+    setFilterPrice,
+    removeFilterPrice,
+    resetFilterPrice,
+} from "../redux/slices/filterEvent.slice.js";
+import {
+    selectDateFilters,
+    selectLanguageFilters,
+    selectCategoryFilters,
+    selectPriceFilters,
+} from "../redux/slices/filterEvent.slice.js";
 
+const FilterSection = () => {
     const DateArray = ["today", "tomorrow", "this-Week", "next-Week"];
     const LanguageArray = ["English", "Hindi", "Punjabi", "Tamil"];
     const CategoryArray = ["Music", "Theatre", "Dance", "Comedy", "Sports"];
     const PriceArray = ["150 - 500", "500 - 1000", "1000 - 1500", "2000+"];
 
-
     return (
         <div className="w-full h-fit flex flex-col gap-2 shrink-0">
-            <h1 className="text-2xl font-bold text-[#333333] pb-4 shrink-0">Filters</h1>
+            <h1 className="text-2xl font-bold text-[#333333] pb-4 shrink-0">
+                Filters
+            </h1>
             <FilterElement
                 filterName={"Date"}
-                filters={dateFilters}
-                setFilters={setDateFilters}
                 filterOptionArray={DateArray}
+                selectFilterFn={selectDateFilters}
+                setAction={setFilterDate}
+                removeAction={removeFilterDate}
+                resetAction={resetFilterDate}
             />
             <FilterElement
                 filterName={"Language"}
-                filters={languageFilters}
-                setFilters={setLanguageFilters}
                 filterOptionArray={LanguageArray}
+                selectFilterFn={selectLanguageFilters}
+                setAction={setFilterLanguage}
+                removeAction={removeFilterLanguage}
+                resetAction={resetFilterLanguage}
             />
             <FilterElement
                 filterName={"Category"}
-                filters={categoryFilters}
-                setFilters={setCategoryFilters}
                 filterOptionArray={CategoryArray}
+                selectFilterFn={selectCategoryFilters}
+                setAction={setFilterCategory}
+                removeAction={removeFilterCategory}
+                resetAction={resetFilterCategory}
             />
             <FilterElement
                 filterName={"Price"}
-                filters={priceFilters}
-                setFilters={setPriceFilters}
                 filterOptionArray={PriceArray}
+                selectFilterFn={selectPriceFilters}
+                setAction={setFilterPrice}
+                removeAction={removeFilterPrice}
+                resetAction={resetFilterPrice}
             />
         </div>
     );
 };
 
-
-
 const FilterElement = ({
     filterName,
-    filters,
-    setFilters,
     filterOptionArray,
+    selectFilterFn,
+    setAction,
+    removeAction,
+    resetAction,
 }) => {
     const [isOpen, setIsOpen] = useState(false);
+    const filter = useSelector(selectFilterFn);
+    const dispatch = useDispatch();
 
     return (
         <div className="w-full flex flex-col justify-center bg-white text-gray-600 rounded-md">
@@ -74,19 +102,26 @@ const FilterElement = ({
                 <button
                     className="px-4 text-gray-400 hover:text-[#ff0000] transition-colors duration-150"
                     onClick={() => {
-                        setFilters([]);
+                        dispatch(resetAction());
                     }}
                 >
                     clear
                 </button>
             </div>
             {isOpen && (
-                <div className="w-full h-fit px-4 flex flex-wrap gap-2 pb-6">
+                <div className="w-full max-h-fit px-4 flex flex-wrap gap-2 pb-6 overflow-clip animate-moveIntoViewTopToBottom">
                     {filterOptionArray.map((optionName) => (
                         <FilterOption
-                            filter={filters}
-                            setFilters={setFilters}
+                            key={optionName}
                             optionName={optionName}
+                            dispatchAction={() => {
+                                if (!filter.includes(optionName)) {
+                                    dispatch(setAction(optionName));
+                                } else {
+                                    dispatch(removeAction(optionName));
+                                }
+                            }}
+                            isActive={filter.includes(optionName)}
                         />
                     ))}
                 </div>
@@ -94,30 +129,13 @@ const FilterElement = ({
         </div>
     );
 };
-const FilterOption = ({ filter, setFilters, optionName }) => {
-    const [isActive, setIsActive] = useState(filter.includes(optionName));
-    useEffect(() => {
-        setIsActive(filter.includes(optionName));
-    }, [filter]);
-    console.log(filter);
+const FilterOption = ({ dispatchAction, optionName, isActive }) => {
     return (
         <button
             className={`px-3 py-1 rounded-sm  ${
-                isActive ? "bg-[#e72222] text-white" : "text-gray-600 border"
+                isActive ? "bg-[#e72222] text-white border border-[#e72222]" : "text-gray-600 border"
             } shrink-0`}
-            onClick={() => {
-                if (isActive) {
-                    setFilters(
-                        filter.filter((filterName) => {
-                            return filterName !== optionName;
-                        }),
-                    );
-                    setIsActive(false);
-                } else {
-                    setFilters([...filter, optionName]);
-                    setIsActive(true);
-                }
-            }}
+            onClick={() => dispatchAction()}
         >
             {optionName}
         </button>

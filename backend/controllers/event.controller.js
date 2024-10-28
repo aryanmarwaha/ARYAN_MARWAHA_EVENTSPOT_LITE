@@ -1,6 +1,6 @@
 import Event from "../models/event.model.js";
 
-export const getAllEventsController = async (req, res) => {
+export const getAllEvents = async (req, res) => {
     try {
         const query = req.query.q || "";
         const events = await Event.find({
@@ -26,3 +26,13 @@ export const getAllEventsController = async (req, res) => {
         console.log(error);
     }
 };
+
+export const getEventById = async (req, res) => {
+    try {
+        const event = await Event.findById(req.params.id);
+        res.status(200).json(event);
+    } catch (error) {
+        res.status(404).json({ message: error.message });
+        console.log(error);
+    }
+}

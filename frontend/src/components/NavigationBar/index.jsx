@@ -92,7 +92,7 @@ const RecommendationSection = ({
     return (
         <>
             <div
-                className="h-[calc(100vh-4rem)] w-screen fixed top-[4rem] left-0 bg-black opacity-[0.6] animate-FadeInToView"
+                className="h-[calc(100vh-4rem)] w-screen fixed top-[4rem] left-0 bg-black opacity-[0.6] animate-FadeInToView z-10"
                 onClick={() => {
                     setSearchActive1(false);
                     setSearchActive2(false);
@@ -206,7 +206,7 @@ const PromotedSearchKeyword = ({ name, profileLink }) => {
 const LocationIcon = ({ searchActive1 }) => {
     return (
         <div
-            className={`h-full w-[8rem] md:flex items-center bg-[#EDF3F8] rounded-md px-4 shrink-0 cursor-pointer ${
+            className={`h-full w-[8rem] hidden md:flex items-center bg-[#EDF3F8] rounded-md px-4 shrink-0 cursor-pointer ${
                 false && "outline outline-2"
             }
             ${searchActive1 ? "hidden" : "flex"}`}
