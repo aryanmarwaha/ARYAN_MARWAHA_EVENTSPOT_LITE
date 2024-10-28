@@ -16,15 +16,6 @@ app.use(express.json());
 import searchRoute from "./routes/search.route.js";
 import eventRoutes from "./routes/event.route.js";
 
-app.use("/api/search", searchRoute);
-
-app.use(async(req,res,next)=>{
-    await new Promise(resolve=> setTimeout(resolve,3000));
-    next();
-})
-app.use("/api/event", eventRoutes);
-
-
 if (process.env.NODE_ENV === "production") {
     app.use(express.static(path.join(__dirname, "/frontend/dist")));
 
@@ -32,6 +23,15 @@ if (process.env.NODE_ENV === "production") {
         res.sendFile(path.resolve(__dirname, "frontend", "dist", "index.html"));
     });
 }
+
+
+app.use("/api/search", searchRoute);
+
+app.use(async(req,res,next)=>{
+    await new Promise(resolve=> setTimeout(resolve,3000));
+    next();
+})
+app.use("/api/event", eventRoutes);
 
 
 app.listen(PORT, () => {
